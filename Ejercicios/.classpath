@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="03/01/src"/>
+	<classpathentry kind="src" path="03/02/src"/>
+	<classpathentry kind="src" path="03/03/src"/>
+	<classpathentry kind="src" path="03/04/src"/>
+	<classpathentry kind="src" path="03/05/src"/>
+	<classpathentry kind="src" path="03/06/src"/>
+	<classpathentry kind="src" path="03/07/src"/>
+	<classpathentry kind="src" path="03/08/src"/>
+	<classpathentry kind="src" path="04/01/src"/>
+	<classpathentry kind="src" path="04/02/src"/>
+	<classpathentry kind="src" path="04/03/src"/>
+	<classpathentry kind="src" path="04/04/src"/>
+	<classpathentry kind="src" path="05/01/src"/>
+	<classpathentry kind="src" path="05/02/src"/>
+	<classpathentry kind="src" path="07/04/src"/>
+	<classpathentry kind="src" path="clases/04-04/cafeteraModelo/src"/>
+	<classpathentry kind="src" path="clases/04-04/Empleado/src"/>
+	<classpathentry kind="src" path="clases/04-18/animales/src"/>
+	<classpathentry kind="src" path="clases/04-18/cafeteraModelo/src"/>
+	<classpathentry kind="src" path="clases/05-09/PruebaColecciones/src"/>
+	<classpathentry kind="src" path="clases/05-16/Streams/src"/>
+	<classpathentry kind="src" path="clases/05-23/juegoLudo/src"/>
+	<classpathentry kind="src" path="clases/05-23/pruebaThreads/src"/>
+	<classpathentry kind="src" path="clases/05-30/concesionariaFabricantes/src"/>
+	<classpathentry kind="src" path="clases/05-30/PatronesDeDiseno/src"/>
+	<classpathentry kind="output" path="03/01/bin"/>
+</classpath>
